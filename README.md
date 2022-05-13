@@ -2,6 +2,8 @@
 
 [Curso de Java Collections da formação Java/Alura](https://cursos.alura.com.br/course/java-collections)
 
+[<< CURSO ANTERIOR](https://github.com/pvreboucas/java-util)
+
 [Principal](https://github.com/pvreboucas/java-collections)
 
 * [Aula 1 - Trabalhando com ArrayList](https://github.com/pvreboucas/java-collections/tree/aula-01)
@@ -23,3 +25,5 @@
 * [Aula 9 - Qual Collection usar](https://github.com/pvreboucas/java-collections/tree/aula-09)
 
 * [Aula 10 - Mapas](https://github.com/pvreboucas/java-collections/tree/aula-10)
+
+[PRÓXIMO CURSO >>](https://github.com/pvreboucas/java-io)
